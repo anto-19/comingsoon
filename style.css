@@ -1,0 +1,24 @@
+body {
+   background-color: #34ae1a;
+}
+
+h3 {
+   color: white;
+   text-align: center;
+   list-style: 500px;
+}
+div {
+   text-align: center;
+}
+.fa {
+   width: 50px;
+   height: 50px;
+   background-color: RED;
+}
+a {
+   color: black;
+}
+.container {
+   position: relative;
+   top: 300px;
+}
